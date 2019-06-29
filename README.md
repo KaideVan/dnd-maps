@@ -1,5 +1,5 @@
-## D&D Maps
-
 ![](https://lh3.googleusercontent.com/El6O0Nsz0jdt-cyFhgVwC1MmaplVFBDSQ4GSq4X9hlEpElZyPg4eio7XMnLkFxy48PZa0WdKneHlpbhRfKFAi3hUv0NoHKMRH3IE4ZeDH6-TMZUg8Xd0rMWQdqLyoN-a0f9CNUsr4PH8hihPlcvoOKFKC7M4DulZf8Ie7s0przfIMNaKgWdn5GOdUB0tJgvc8Lad7h9IUrtih1VGiKlIjMqXHThbHiCdjvZaARhXpJSkxGtQMpu_vltPKqzb25PcOR9m7RMXFKZDllzZcETORikklTcOGRcENZVdwyDlUROCVK-q9XAjICadnUY2gMq89hXYf6lfB_i90iRxWgwGDz_Onx5buCv9qF0tT_6iB8acb8iKLHazGhsNRKMxnkqxcbgD9UEWb-rs3npsDdiKBFfLq8eZ-wT7KKWak5CUGbxTVTEs9xio4jQgNQtOFm33DO9-8QK7HtWsC1C3cGrojW68BhpdsjR3hkdro33zq-K5Kx21-ZfqWTXKFiOE0YfGhfzD15-W-1RE39qShWVSbVVFDC4pGSorxX5-wfwrXrqS7THbukZpx55_Q9AkPr_zTKHCfohyYxN6bFwXeNAo_YnK2S2z79Si0CQVUHhSy408Fo325uoFSG31gSvnmFzLGap5YBDBzGh75WKN0ERDsaao=w1280-h640-no)
+
+## D&D Maps
 
 A map app for Dungeons & Dragons / Pathfinders players, inspired by google maps. Using this project to learn how to use react and bootstrap. I will also be implementing Google sheets api to have a free 'database' on this statically hosted site.
