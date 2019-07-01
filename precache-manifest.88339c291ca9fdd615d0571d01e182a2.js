@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91ac12a0353e9ed56626482b7971a126",
+    "revision": "f4375c9331f3d5a79e225411d04fb899",
     "url": "/dnd-maps/index.html"
   },
   {
-    "revision": "cdca4e12953a6d349cf4",
+    "revision": "79c8342b989acb967373",
     "url": "/dnd-maps/static/css/main.99e2be09.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dnd-maps/static/js/2.42979827.chunk.js"
   },
   {
-    "revision": "cdca4e12953a6d349cf4",
-    "url": "/dnd-maps/static/js/main.551a6373.chunk.js"
+    "revision": "79c8342b989acb967373",
+    "url": "/dnd-maps/static/js/main.80f21b07.chunk.js"
   },
   {
     "revision": "485cea698024d0e9c33c",
