@@ -1,7 +1,13 @@
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+html, body, #root, .App, .container {
+  height: 100%;
+  width: 100%;
 }
 
 body {
@@ -14,9 +20,6 @@ a {
   text-decoration: none;
 }
 
-.container {
-  padding: 0 1rem;
-}
 
 .btn {
   display: inline-block;
