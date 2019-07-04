@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "703b8521693ce86fcc83b87952bc7a9f",
+    "revision": "9688d5e664abf2ee531e03ae3b37883c",
     "url": "/dnd-maps/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dnd-maps/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "323ca3e619cfb01758c5",
+    "revision": "3d8a3e8e07ae3d20f5e4",
     "url": "/dnd-maps/static/css/main.4c7857fc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dnd-maps/static/js/2.ee7e7d1f.chunk.js"
   },
   {
-    "revision": "323ca3e619cfb01758c5",
-    "url": "/dnd-maps/static/js/main.1d2325a3.chunk.js"
+    "revision": "3d8a3e8e07ae3d20f5e4",
+    "url": "/dnd-maps/static/js/main.2ee145de.chunk.js"
   },
   {
     "revision": "485cea698024d0e9c33c",
