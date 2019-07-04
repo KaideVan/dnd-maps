@@ -70,7 +70,7 @@ class Home extends React.Component {
 
 //images
 const paperImageURL = 'https://i.pinimg.com/originals/47/b5/67/47b567ff37393b5c564cbe1186e90662.jpg';
-const bgImageURL = 'https://images.unsplash.com/photo-1510148199876-8a856ee41d42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80';
+const bgImageURL = '/images/woodBackgroundImage.jpg';
 
 const handWriting = {
     fontFamily: `'Courgette', 'cursive'`,
